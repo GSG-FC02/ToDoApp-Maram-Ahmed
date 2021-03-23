@@ -1,4 +1,6 @@
-# ToDoApp-Maram-Ahmed**Team members: 😎**
+# ToDoApp-Maram-Ahmed
+
+**Team members: 😎**
 * Maram AL-Baba
 * Ahmed Sabah
 
@@ -19,6 +21,7 @@ To Do App ✍
 * Have limited tasks.
 
 **Our Journey :🚀**
+
 We divided the work and agreed on the following:
 * Gather up inspiration and ideas.
 * Plan out site content.
