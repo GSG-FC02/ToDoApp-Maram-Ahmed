@@ -1,4 +1,6 @@
 # ToDoApp-Maram-Ahmed
+**Live Link:👀**
+https://gsg-fc02.github.io/ToDoApp-Maram-Ahmed/
 
 **Team members: 😎**
 * Maram AL-Baba
@@ -19,6 +21,10 @@ To Do App ✍
 * Gives you a sense of accomplishment.
 * Better time management.
 * Have limited tasks.
+
+
+**User Journey:🤠**
+* This app provides ways for user to organize his tasks in the day, help him in time management, and give him a feeling of achievement.
 
 **Our Journey :🚀**
 
